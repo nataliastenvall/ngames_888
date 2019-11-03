@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ngames_888/static/css/main.21a52986.chunk.css",
+    "main.js": "/ngames_888/static/js/main.c5ed096c.chunk.js",
+    "main.js.map": "/ngames_888/static/js/main.c5ed096c.chunk.js.map",
+    "runtime-main.js": "/ngames_888/static/js/runtime-main.7cf49e69.js",
+    "runtime-main.js.map": "/ngames_888/static/js/runtime-main.7cf49e69.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/ngames_888/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.c361bada.chunk.js": "/ngames_888/static/js/2.c361bada.chunk.js",
+    "static/js/2.c361bada.chunk.js.map": "/ngames_888/static/js/2.c361bada.chunk.js.map",
+    "index.html": "/ngames_888/index.html",
+    "precache-manifest.530a3f9cf1656e4f08bc9736f7e5818e.js": "/ngames_888/precache-manifest.530a3f9cf1656e4f08bc9736f7e5818e.js",
+    "service-worker.js": "/ngames_888/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/ngames_888/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.21a52986.chunk.css.map": "/ngames_888/static/css/main.21a52986.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cf49e69.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.c361bada.chunk.js",
+    "static/css/main.21a52986.chunk.css",
+    "static/js/main.c5ed096c.chunk.js"
+  ]
+}
