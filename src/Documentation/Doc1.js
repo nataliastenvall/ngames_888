@@ -11,7 +11,8 @@ const Doc1 = props => {
         used iframe and #past-incidents for showing the list of the latest
         incidents.For Azure status page I planned to use contentWindow.scrollTo
         just React way. And location.reload for refreshing the content. I would
-        also make it more dynamic with less repeating in the code.
+        also make it more dynamic with less repeating in the code. And of
+        course: testing with Jest and Enzyme.
       </p>
       <hr />
       <p className="mb-0">
