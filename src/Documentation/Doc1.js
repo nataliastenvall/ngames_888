@@ -10,11 +10,12 @@ const Doc1 = props => {
         is an effective way to make a prototype fast. For Datadog status page, I
         used iframe and #past-incidents for showing the list of the latest
         incidents. For Azure status page I planned to use contentWindow.scrollTo
-        just React way. And location.reload for refreshing the content. I would
-        change my components to class based. So I can use state and set src for
-        my iframe with setInterval every 10min. I would call setInterval in
-        componentDidUpdate I suggest. I would also make it more dynamic with
-        less repeating in the code. And of course: testing with Jest and Enzyme.
+        just React way. Or just use data URL for HTML element as a src. And
+        location.reload for refreshing the content. I would change my components
+        to class based. So I can use state and set src for my iframe with
+        setInterval every 10min. I would call setInterval in componentDidUpdate
+        I suggest. I would also make it more dynamic with less repeating in the
+        code. And of course: testing with Jest and Enzyme.
       </p>
       <hr />
       <p className="mb-0">
